@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemy2_Destroy",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f74b25a8-836e-410b-9b3a-3944f44073b4"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "f21da9ec-c4ef-4cbb-a0d6-73fb1a2aeb39"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "e2e2b251-f1c7-4035-8759-5ed60d148316"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "eba542a7-ff07-4b14-833a-9dc23104611c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

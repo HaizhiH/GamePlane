@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Enemy",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.15,
+  "sample": 20,
+  "speed": 2,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "86c66d98-11c3-40b5-b8f6-1da8f855b014"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "80f2b328-56ac-4d84-bc3c-1712dcfb32c8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

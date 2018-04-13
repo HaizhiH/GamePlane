@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Airplane",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5c4b9026-c603-49e8-8649-17a49429a085"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "077d3a9d-3dbb-40f5-886b-873a78d8077e"
+            }
+          }
+        ]
+      }
+    },
+    "props": {},
+    "paths": {}
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}
